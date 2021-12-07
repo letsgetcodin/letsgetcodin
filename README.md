@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @letsgetcodin
+- 👋 Hi, I’m Abel or @letsgetcodin on GitHub.
 - 👀 I’m interested in Soccer, lifting, Fifa, and coding.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything
